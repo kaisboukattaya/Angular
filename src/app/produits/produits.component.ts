@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ProduitsComponent implements OnInit
 {
-   produit:string[]=["PC Asus", "Imprimante Epson", "Tablette Samsung"];
+   produit:string[]=["PC kais", "Imprimante Epson", "Tablette Samsung"];
    //produit!:Array<string>
   
   ngOnInit(): void {
